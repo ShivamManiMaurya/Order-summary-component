@@ -1,0 +1,9 @@
+@media screen and (min-width: 768px) {
+    /* For Desktop */
+    body{
+        background: hsl(225, 100%, 94%) url(../images/pattern-background-desktop.svg) no-repeat top center;
+        background-size: contain;
+        background-image: url(../images/pattern-background-desktop.svg);
+    }
+}
+
